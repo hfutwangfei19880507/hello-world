@@ -1,5 +1,6 @@
 # hello-world
 Just another repository
 
-**This is my first Commit. ^_^**"\nadd a new line."
-ECHO 处于打开状态。
+**This is my first Commit.**
+
+add a new line.
